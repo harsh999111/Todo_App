@@ -1,0 +1,44 @@
+{
+  "todoList": [
+    {
+      "text": "harsh",
+      "isDone": true,
+      "id": 1
+    },
+    {
+      "text": "mayank",
+      "isDone": true,
+      "id": 2
+    },
+    {
+      "text": "pk",
+      "isDone": true,
+      "id": 3
+    },
+    {
+      "text": "krupal",
+      "isDone": true,
+      "id": 4
+    },
+    {
+      "text": "prince",
+      "isDone": true,
+      "id": 5
+    },
+    {
+      "text": "tapan",
+      "isDone": true,
+      "id": 6
+    },
+    {
+      "text": "yogesh",
+      "isDone": false,
+      "id": 7
+    },
+    {
+      "text": "parakash",
+      "isDone": false,
+      "id": 8
+    }
+  ]
+}
