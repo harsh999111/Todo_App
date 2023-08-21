@@ -1,19 +1,9 @@
 {
   "todoList": [
     {
-      "text": "harsh",
+      "text": "harsh ",
       "isDone": true,
       "id": 1
-    },
-    {
-      "text": "mayank",
-      "isDone": true,
-      "id": 2
-    },
-    {
-      "text": "pk",
-      "isDone": true,
-      "id": 3
     },
     {
       "text": "krupal",
@@ -39,6 +29,11 @@
       "text": "parakash",
       "isDone": false,
       "id": 8
+    },
+    {
+      "text": "sdjkvivui",
+      "isDone": true,
+      "id": 10
     }
   ]
 }
